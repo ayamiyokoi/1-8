@@ -1,0 +1,41 @@
+.lists {
+  margin: 50px auto;
+}
+ul {
+  padding-left: 0;
+}
+li {
+  padding: 20px;
+  list-style-type: none;
+  width: 920px;
+  margin: auto;
+}
+
+.gray {
+  background-color: #eee;
+}
+
+.boxs {
+  display: flex;
+  flex-wrap: wrap;
+  width: 960px;
+  margin: 50px auto 10px;
+}
+
+.orange {
+  background-color: #ff8c00;
+  height: 200px;
+  width: 30%;
+  margin-bottom: 40px;
+}
+
+.yellow {
+  background-color: #ffd700;
+  height: 200px;
+  width: 30%;
+  margin-bottom: 40px;
+}
+
+.right {
+  margin-right: 5%;
+}
